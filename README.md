@@ -56,8 +56,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)]
 
-
-# [Portfolio](https://imrajsrivastava.github.io/)
+<h2><a href="https://imrajsrivastava.github.io/">🌍 | Portfolio </a></h2>
 
 
 
